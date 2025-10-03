@@ -14,9 +14,9 @@ function aboutMe() {
 }
 ```
 
-🌱 Currently exploring Web Development, Flutter, Backend Systems, and DSA.
-💡 Passionate about solving problems and building impactful solutions.
-🤝 Open to **internships, collaborations, and startups**.
+- 🌱 Currently exploring Web Development, Flutter, Backend Systems, and DSA.
+- 💡 Passionate about solving problems and building impactful solutions.
+- 🤝 Open to **internships, collaborations, and startups**.
 
 ---
 
